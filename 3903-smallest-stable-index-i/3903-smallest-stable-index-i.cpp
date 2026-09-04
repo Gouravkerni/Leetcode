@@ -3,26 +3,26 @@ public:
     int firstStableIndex(vector<int>& nums, int k) {
         
         int n = nums.size();
-        int leftmax = 0;
-        int instability_score = 0;
 
-        for(int i = 0;i<n;i++){
-          leftmax = max(leftmax, nums[i]);
+        vector<int> rightMin(n);
 
-          int rightmin = INT_MAX;
+        rightMin[n - 1] = nums[n - 1];
 
-          for(int j = i;j<n;j++){
-            if(nums[j] < rightmin){
-                rightmin = nums[j];
+        for (int i = n - 2; i >= 0; i--) {
+            rightMin[i] = min(nums[i], rightMin[i + 1]);
+        }
+
+        int leftMax = INT_MIN;
+
+        for (int i = 0; i < n; i++) {
+            leftMax = max(leftMax, nums[i]);
+
+            int instabilityScore = leftMax - rightMin[i];
+
+            if (instabilityScore <= k) {
+                return i;
             }
-          }
-
-          instability_score = leftmax - rightmin;
-         
-         if(instability_score <= k){
-            return i;
-           }  
-      }    
-     return -1;
+        }
+        return -1;
     }
 };
