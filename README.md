@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouravkerni/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gouravkerni/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Gouravkerni/Leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/Gouravkerni/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Gouravkerni/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gouravkerni/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -43,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gouravkerni/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Gouravkerni/Leetcode/tree/master/0217-contains-duplicate) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gouravkerni/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Gouravkerni/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
