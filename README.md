@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/Gouravkerni/Leetcode/tree/master/1154-day-of-the-year) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gouravkerni/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/Gouravkerni/Leetcode/tree/master/0709-to-lower-case) |
+| [1154-day-of-the-year](https://github.com/Gouravkerni/Leetcode/tree/master/1154-day-of-the-year) |
 <!---LeetCode Topics End-->
