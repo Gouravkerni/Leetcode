@@ -5,10 +5,10 @@ public:
         int left = 0;
         int right = s.size()-1;
      while(left < right) {
-        while(left < right && !(isalnum(s[left]))){
+        while(left < right && !isalnum(s[left])){
             left++;
         }
-        while(left < right && !(isalnum(s[right]))){
+        while(left < right && !isalnum(s[right])){
             right--;;
         }
 
