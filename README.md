@@ -57,6 +57,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Gouravkerni/Leetcode/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/Gouravkerni/Leetcode/tree/master/0709-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/Gouravkerni/Leetcode/tree/master/1154-day-of-the-year) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Gouravkerni/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
